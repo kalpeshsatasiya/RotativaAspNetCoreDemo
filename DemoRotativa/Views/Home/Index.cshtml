@@ -1,0 +1,21 @@
+﻿@model IEnumerable<DemoRotativa.Models.Customer>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <table class="table-bordered">
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.City</td>
+            </tr>
+        }
+    </table>
+</div>
+

@@ -1,0 +1,22 @@
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.deps.json
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.runtimeconfig.json
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.runtimeconfig.dev.json
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.dll
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.pdb
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.csprojResolveAssemblyReference.cache
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.csproj.CoreCompileInputs.cache
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.AssemblyInfoInputs.cache
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.AssemblyInfo.cs
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.dll
+c:\users\sai\source\repos\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.pdb
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.deps.json
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.runtimeconfig.json
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.runtimeconfig.dev.json
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.dll
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\bin\Debug\netcoreapp2.0\DemoRotativa.pdb
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.csprojResolveAssemblyReference.cache
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.csproj.CoreCompileInputs.cache
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.AssemblyInfoInputs.cache
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.AssemblyInfo.cs
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.dll
+C:\Users\Mr KALPESH\Downloads\DemoRotativa\DemoRotativa\DemoRotativa\obj\Debug\netcoreapp2.0\DemoRotativa.pdb
